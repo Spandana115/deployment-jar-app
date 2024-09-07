@@ -1,4 +1,7 @@
 <html>
+<head>
+<title> Deployment Project </title>
+</head>
 <body>
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
     Welcome to DevOps Tomcat class.
